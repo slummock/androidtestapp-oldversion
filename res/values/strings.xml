@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sports Centre</string>
+    <string name="stringOpenTimes">View Opening Times</string>
+    <string name="stringEvents">View Events</string>
+    <string name="stringFacilities">View Facilities</string>
+    <string name="mainButton">Select Screen</string>
+    <string-array name="openingTimes">
+        <item >Monday: 8.00 - 19.00</item>
+        <item >Tuesday: 8.00 - 19.00</item>
+        <item >Wednesday: 8.00 - 19.00</item>
+        <item >Thursday: 8.00 - 19.00</item>
+        <item >Friday: 8.00 - 19.00</item>
+        <item >Saturday: 10.00 - 17.00</item>
+        <item >Sunday: 10.00 - 16.00</item>
+    </string-array>
+    <string-array name="facilityNames">
+        <item >Fitness Suite</item>
+        <item >Studio Blue and Studio Red</item>
+        <item >SU Clubs Training</item>
+        <item >Sports Halls &amp; Squash Court</item>
+    </string-array>
+    <string-array name="facilityDesc">
+        <item >CV machines with integrated entertainment. Free weights. Resistance machines. Cardiozone. Air conditioning. Inductions. Training programmes. Fitness assessment.</item>
+        <item >Aerobix. Belly Dancing. Boxercise. Circuit. Kombat. Legs, Bums and Tums. Pilates. Step. Spinning. Studio Weights. Yoga. Zumba.</item>
+        <item >Cheerleading. Dance. Fencing. Jiu Jitsu. Karate. Kung Fu. Taekwondo. Table Tennis.</item>
+        <item >5-a-side. Basketball. Badminton. Dodgeball. Hockey. Netball. Rock-it Ball. Tennis. </item>
+    </string-array>
+    <string name="stringFacilityDesc"></string>
+    <string name="stringBack">Back</string>
+    <string name="openTimeMonday">Monday: 8.00 - 19.00</string>
+    <string name="openTimeTuesday">Tuesday: 8.00 - 19.00</string>
+    <string name="openTimeWednesday">Wednesday: 8.00 - 19.00</string>
+    <string name="openTimeThursday">Thursday: 8.00 - 19.00</string>
+    <string name="openTimeFriday">Friday: 8.00 - 19.00</string>
+    <string name="openTimeSaturday">Saturday: 10.00 - 17.00</string>
+    <string name="openTimeSunday">Sunday: 10.00 - 16.00</string>
+
+</resources>
